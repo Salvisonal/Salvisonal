@@ -12,6 +12,8 @@
 - Power BI
 - SQL
 - Advanced Excel
+- Tableau
+- Google Sheets
 - KPI Reporting
 - Dashboard Development
 - Data Analysis
@@ -28,6 +30,12 @@
 - Budget vs Actual Analysis
 - Revenue Analysis
 - KPI Monitoring
+
+## Certifications
+
+- Data Analytics Certification – ExcelR
+- IIT Jammu Data Analytics Program (In Progress)
+- NASSCOM Certified Data Analyst
 
 ## Connect With Me
 LinkedIn: linkedin.com/in/sonal-salvi-9a31b32b1/
