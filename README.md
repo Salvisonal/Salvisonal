@@ -1,16 +1,33 @@
-## Hi there 👋
+# Hi, I'm Sonal Salvi 👋
 
-<!--
-**Salvisonal/Salvisonal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+📊 Operations Analyst | Reporting Analyst | MIS Analyst
 
-Here are some ideas to get you started:
+## About Me
+- 8+ Years of Experience in Operations & Payroll
+- Skilled in Power BI, SQL, Excel, and KPI Reporting
+- Interested in Data Analytics, Reporting, and Business Insights
+- Currently pursuing MBA in Finance
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+- Power BI
+- SQL
+- Advanced Excel
+- KPI Reporting
+- Dashboard Development
+- Data Analysis
+- MIS Reporting
+- Financial Reporting
+
+## Featured Projects
+### Manufacturing Analytics Dashboard
+- Production Analysis
+- Machine Performance Tracking
+- Employee Productivity Analysis
+
+### Insurance Analytics Dashboard
+- Budget vs Actual Analysis
+- Revenue Analysis
+- KPI Monitoring
+
+## Connect With Me
+LinkedIn: linkedin.com/in/sonal-salvi-9a31b32b1/
