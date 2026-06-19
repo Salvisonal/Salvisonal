@@ -22,11 +22,13 @@
 
 ## Featured Projects
 ### Manufacturing Analytics Dashboard
+Repository: https://github.com/Salvisonal/Manufacturing-project
 - Production Analysis
 - Machine Performance Tracking
 - Employee Productivity Analysis
 
 ### Insurance Analytics Dashboard
+Repository: https://github.com/Salvisonal/Insurance-project
 - Budget vs Actual Analysis
 - Revenue Analysis
 - KPI Monitoring
