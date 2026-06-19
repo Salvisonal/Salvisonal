@@ -40,4 +40,4 @@ Repository: https://github.com/Salvisonal/Insurance-project
 - NASSCOM Certified Data Analyst
 
 ## Connect With Me
-LinkedIn: linkedin.com/in/sonal-salvi-9a31b32b1/
+LinkedIn: https://linkedin.com/in/sonal-salvi-9a31b32b1/
