@@ -1,6 +1,6 @@
 ## Hi, I'm Sonal Salvi 👋
 
-📊 Operations Analyst | Reporting Analyst | MIS Analyst
+📊 MIS Analyst | Reporting Analyst | Finance Data Analystt
 
 ## About Me
 - 8+ Years of Experience in Operations & Payroll
