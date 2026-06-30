@@ -1,34 +1,34 @@
 ## Hi, I'm Sonal Salvi 👋
 
-📊 MIS Analyst | Reporting Analyst | Finance Data Analystt
+Transforming Finance & Operations data into actionable business insights.
 
 ## About Me
-- 8+ Years of Experience in Operations & Payroll
-- Skilled in Power BI, SQL, Excel, and KPI Reporting
-- Interested in Data Analytics, Reporting, and Business Insights
+-  8+ years of experience in Finance, Payroll & Operations Reportingl
+- Skilled in Advanced Excel, SQL, Power BI, Tableau and KPI Dashboards
+- Experienced in building dashboards, KPI reports, and business performance analytics.999
 - Currently pursuing MBA in Finance
 
-## Skills
-- Power BI
-- SQL
-- Advanced Excel
-- Tableau
-- Google Sheets
-- KPI Reporting
-- Dashboard Development
-- Data Analysis
-- MIS Reporting
-- Financial Reporting
+## Technical Skills
+• Excel • SQL • Power BI • Tableau
+
+## Reporting
+• KPI Reporting
+• MIS Reporting
+• Dashboard Development
+
+## Domain
+• Finance Reporting
+• Payroll Analytics
 
 ## Featured Projects
 ### Manufacturing Analytics Dashboard
-Repository: https://github.com/Salvisonal/Manufacturing-project
+🔗 [View Project](https://github.com/Salvisonal/Manufacturing-project)
 - Production Analysis
 - Machine Performance Tracking
 - Employee Productivity Analysis
 
 ### Insurance Analytics Dashboard
-Repository: https://github.com/Salvisonal/Insurance-project
+ [View Project](https://github.com/Salvisonal/Insurance-project)
 - Budget vs Actual Analysis
 - Revenue Analysis
 - KPI Monitoring
