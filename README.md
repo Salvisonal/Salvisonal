@@ -3,7 +3,7 @@
 Transforming Finance & Operations data into actionable business insights.
 
 ## About Me
--  8+ years of experience in Finance, Payroll & Operations Reportingl
+- 8+ years of experience in Finance, Payroll & Operations Reportingl
 - Skilled in Advanced Excel, SQL, Power BI, Tableau and KPI Dashboards
 - Experienced in building dashboards, KPI reports, and business performance analytics.999
 - Currently pursuing MBA in Finance
