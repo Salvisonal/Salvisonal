@@ -23,7 +23,7 @@ Transforming Finance & Operations data into actionable business insights.
 ## Featured Projects
 ### Manufacturing Analytics Dashboard
 
-![Manufacturing Dashboard](manufacturing_dashboard.png)
+![Dashboard](manufacturing_dashboard.png)
 
 🔗 [View Project](https://github.com/Salvisonal/Manufacturing-project)
 - Production Analysis
