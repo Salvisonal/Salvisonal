@@ -1,4 +1,4 @@
-# Hi, I'm Sonal Salvi 👋
+## Hi, I'm Sonal Salvi 👋
 
 📊 Operations Analyst | Reporting Analyst | MIS Analyst
 
